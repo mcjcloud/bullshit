@@ -1,0 +1,13 @@
+{
+  "name": "bullshit-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc --build",
+    "clean": "npx tsc --build --clean"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
